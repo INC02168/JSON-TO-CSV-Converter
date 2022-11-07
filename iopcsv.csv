@@ -1,0 +1,168 @@
+.App_Version,.BundleId,.Country,.Email,.Location,.Login_Date,.Name,.OS_Version,.iPhone_Model
+5.4,com.incture.iop.prod,US,eric_rodriguez@murphyoilcorp.com,,2022-05-26 14:55:30 +0000,Eric Rodriguez,15.3,iPhone 11
+5.7,com.incture.iop.prod,US,ivan_martinez@murphyoilcorp.com,,2022-08-29 14:25:46 +0000,Ivan Martinez,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,toby_sands@murphyoilcorp.com,,2022-09-19 18:22:53 +0000,Toby Sands,15.6,iPhone 11
+5.6,com.incture.iop.prod,US,shane_girlinghouse@murphyoilcorp.com,,2022-08-10 14:39:27 +0000,Shane Girlinghouse,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,jesus_saucedo@murphyoilcorp.com,TildenEast,2022-09-22 12:51:41 +0000,Jesus Saucedo,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,mike_reyes@murphyoilcorp.com,,2022-09-15 14:21:40 +0000,Michael Reyes,14.5,iPhone 11
+5.7,com.incture.iop.prod,US,justin_alvarez@murphyoilcorp.com,,2022-09-22 12:56:32 +0000,Justin Alvarez,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,norman_briscoe@murphyoilcorp.com,,2022-09-21 15:10:26 +0000,Norman Briscoe,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,jason_ethridge@murphyoilcorp.com,,2022-09-23 11:24:27 +0000,Jason Ethridge,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,joey_traylor@murphyoilcorp.com,,2022-09-21 18:36:12 +0000,Joey Traylor,15.6,iPhone 11
+5.7,com.incture.iop.prod,US,jose_perez@murphyoilcorp.com,,2022-09-16 19:38:08 +0000,Jose Perez,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,matt_bellard@murphyoilcorp.com,KarnesSouth,2022-09-21 19:59:48 +0000,Matthew Bellard,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,guillermo_garcia@murphyoilcorp.com,Catarina,2022-09-21 19:48:43 +0000,Guillermo Garcia,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,carlos_veliz@murphyoilcorp.com,Catarina,2022-09-22 15:48:34 +0000,Carlos Veliz,14.8,iPhone 11
+5.8,com.incture.iop.prod,US,asher_bryant@murphyoilcorp.com,TildenWest,2022-09-20 18:36:55 +0000,Asher Bryant,15.3,iPhone 11
+5.8,com.incture.iop.prod,US,tim_rocha@murphyoilcorp.com,TildenEast,2022-09-20 21:02:47 +0000,Tim Rocha,15.7,iPhone 11
+5.8,com.incture.iop.prod,US,justin_buehring@murphyoilcorp.com,KarnesNorth,2022-09-20 01:07:15 +0000,Justin Buehring,14.5,iPhone 11
+4.7,com.incture.iop.prod,US,casey_pulpan@murphyoilcorp.com,READONLY,2021-04-30 14:24:29 +0000,Casey Pulpan,14.4,iPhone XR
+5.8,com.incture.iop.prod,US,justin_ramirez@murphyoilcorp.com,TildenEast,2022-09-20 19:36:03 +0000,Justin Ramirez,14.5,iPhone 11
+5.8,com.incture.iop.prod,US,mike_ruiz@murphyoilcorp.com,TildenEast,2022-09-21 09:06:41 +0000,Mike Ruiz,14.5,iPhone 11
+5.8,com.incture.iop.prod,US,david_marvin@murphyoilcorp.com,TildenWest,2022-09-23 01:48:20 +0000,David Marvin,15.6,iPhone 11
+5.6,com.incture.iop.prod,US,gable_martinez@murphyoilcorp.com,TILDEN,2022-08-31 20:28:54 +0000,Gable Martinez,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,keith_heard@murphyoilcorp.com,TildenEast,2022-09-20 17:41:39 +0000,Morris Heard,14.6,iPhone 11
+5.8,com.incture.iop.prod,US,aaron_lemaire@murphyoilcorp.com,TildenEast,2022-09-20 22:56:30 +0000,Aaron LeMaire,15.5,iPhone 11
+5.8,com.incture.iop.prod,US,marco_maldonado@murphyoilcorp.com,TildenEast,2022-09-22 21:25:12 +0000,Marco Maldonado,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,cody_maple@murphyoilcorp.com,TildenWest,2022-09-22 19:27:03 +0000,Cody Maple,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,chris_bihm@murphyoilcorp.com,TildenEast,2022-09-23 10:48:55 +0000,Christopher Bihm,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,luke_monceaux@murphyoilcorp.com,,2022-09-22 14:19:31 +0000,Luke Monceaux,16.0,iPhone 11
+5.7,com.incture.iop.prod,US,stoney_simon@murphyoilcorp.com,,2022-09-01 19:58:50 +0000,Stoney Simon,15.4,iPhone 11
+4.7,com.incture.iop.prod,US,rusty_jernigan@murphyoilcorp.com,,2021-04-19 14:47:09 +0000,Rusty Jernigan,14.4,iPhone 8 Plus
+5.5,com.incture.iop.prod,US,ronald_parks@murphyoilcorp.com,TildenWest,2022-09-23 10:45:21 +0000,Ronald Parks,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,jesse_hernandez@murphyoilcorp.com,TildenEast,2022-09-23 10:28:06 +0000,Jesse Hernandez,14.8,iPhone 11
+5.6,com.incture.iop.prod,US,crystal_doporto@murphyoilcorp.com,,2022-07-21 16:07:02 +0000,Crystal DoPorto,14.5,iPhone 11
+5.8,com.incture.iop.prod,US,robert_costilla@murphyoilcorp.com,Catarina,2022-09-19 10:48:27 +0000,Robert Costilla,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,francisco_davila@murphyoilcorp.com,Catarina,2022-09-13 21:24:39 +0000,Francisco Davila,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,romeo_lopez@murphyoilcorp.com,Catarina,2022-09-23 00:36:26 +0000,Romeo Lopez,15.5,iPhone 11
+5.8,com.incture.iop.prod,US,cres_castillo@murphyoilcorp.com,Catarina,2022-09-20 21:23:51 +0000,Cres Castillo,14.8,iPhone 11
+5.8,com.incture.iop.prod,US,roy_saenz@murphyoilcorp.com,Catarina,2022-09-20 21:37:11 +0000,Roy Saenz,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,juan_carrillo@murphyoilcorp.com,Catarina,2022-09-21 06:03:16 +0000,Juan Carrillo,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,art_cadena@murphyoilcorp.com,Catarina,2022-09-22 16:40:47 +0000,Arturo Cadena,15.5,iPhone 11
+4.6,com.incture.iop.prod,antonio_delgado@murphyoilcorp.com,2021-01-08 18:39:27 +0000,Antonio Delgado,14.3,iPhone 8 Plus
+5.6,com.incture.iop.prod,US,genaro_ruiz@murphyoilcorp.com,Catarina,2022-09-23 11:26:39 +0000,Genaro Ruiz,14.8,iPhone 11
+5.7,com.incture.iop.prod,US,hugo_trevino@murphyoilcorp.com,Catarina,2022-09-16 22:47:56 +0000,Hugo Trevino,14.5,iPhone 11
+5.6,com.incture.iop.prod,US,michael_rodriguez@murphyoilcorp.com,CATARINA,2022-07-25 06:42:10 +0000,Michael A. Rodriguez,15.2,iPhone 11
+5.8,com.incture.iop.prod,US,mitchell_hines@murphyoilcorp.com,Catarina,2022-09-22 20:52:49 +0000,Mitchell Hines,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,ricardo_ramirez@murphyoilcorp.com,Catarina,2022-09-22 17:08:01 +0000,Ricardo Ramirez,15.0,iPhone 11
+5.8,com.incture.iop.prod,US,terryandy_garcia@murphyoilcorp.com,Catarina,2022-09-12 13:28:09 +0000,Terryandy Garcia,14.8,iPhone 11
+5.6,com.incture.iop.prod,US,chris_ruiz@murphyoilcorp.com,,2022-07-27 18:35:47 +0000,Chris Ruiz,14.8,iPhone 11
+5.8,com.incture.iop.prod,US,edward_alvarez@murphyoilcorp.com,KarnesNorth,2022-09-20 17:35:33 +0000,Edward Alvarez,15.6,iPhone 12
+5.8,com.incture.iop.prod,US,elmond_jorbal@murphyoilcorp.com,KarnesNorth,2022-09-23 05:42:15 +0000,Elmond Jorbal,14.5,iPhone 11
+5.8,com.incture.iop.prod,US,mike_martinez@murphyoilcorp.com,KarnesNorth,2022-09-23 04:30:43 +0000,Mike Martinez,14.5,iPhone 11
+5.8,com.incture.iop.prod,US,eric_kirkland@murphyoilcorp.com,KarnesNorth,2022-09-23 11:24:43 +0000,Eric Kirkland,14.8,iPhone 11
+5.8,com.incture.iop.prod,US,alec_henderson@murphyoilcorp.com,KarnesNorth,2022-09-23 08:05:31 +0000,Alec Henderson,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,tyler_goynes@murphyoilcorp.com,KarnesNorth,2022-09-22 19:58:59 +0000,Tyler Goynes,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,jason_lawtum@murphyoilcorp.com,KarnesSouth,2022-09-21 19:50:33 +0000,Jason Lawtum,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,jeremy_obrien@murphyoilcorp.com,TildenEast,2022-09-23 10:03:30 +0000,Jeremy O'Brien,15.6,iPhone 11
+5.4,com.incture.iop.prod,US,vicente_gonzalez@murphyoilcorp.com,TildenEast,2022-09-20 21:26:20 +0000,Vince Gonzalez,14.5,iPhone 11
+4.7,com.incture.iop.prod,US,aaron_baxter@murphyoilcorp.com,,2021-04-20 20:32:41 +0000,Aaron Baxter,14.4,iPhone 7
+5.7,com.incture.iop.prod,US,annette_gonzales@murphyoilcorp.com,,2022-08-23 17:58:06 +0000,Annette Gonzales,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,scott_carroll@murphyoilcorp.com,,2022-09-20 14:41:45 +0000,Scott Carroll,15.6,iPhone 11
+5.6,com.incture.iop.prod,US,michael_valentine@murphyoilcorp.com,,2022-08-05 19:47:09 +0000,Michael Valentine,15.4,iPhone 11
+5.8,com.incture.iop.prod,US,jon_dodd@murphyoilcorp.com,,2022-09-14 13:17:18 +0000,Jon Dodd,15.6,iPhone 11
+5.7,com.incture.iop.prod,US,raymond_bucher@murphyoilcorp.com,,2022-09-20 16:37:14 +0000,Raymond Bucher,15.6,iPhone 11
+5.2,com.incture.iop.prod,US,jacob_franco@murphyoilcorp.com,,2021-10-25 15:23:28 +0000,Jacob Franco,14.8,iPhone 11
+5.8,com.incture.iop.prod,US,darren_hale@murphyoilcorp.com,,2022-09-22 13:17:40 +0000,Darren Hale,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,sergio_rivera@murphyoilcorp.com,,2022-09-21 13:37:26 +0000,Sergio Rivera,15.7,iPhone 11
+5.8,com.incture.iop.prod,US,jaret_gunn@murphyoilcorp.com,,2022-09-21 19:21:34 +0000,Jaret Gunn,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,buckley_kuenstler@murphyoilcorp.com,Catarina,2022-09-20 18:13:22 +0000,Buckley Kuenstler,15.6,iPhone 11
+5.7,com.incture.iop.prod,US,antonio_veliz@murphyoilcorp.com,Catarina,2022-09-20 17:12:20 +0000,Antonio Veliz,14.8,iPhone 11
+5.2,com.incture.iop.prod,US,brad_tarpley@murphyoilcorp.com,,2021-08-25 13:24:08 +0000,Brad Tarpley,14.6,iPhone 11
+5.1,com.incture.iop.prod,CA,dallas_turcotte@murphyoilcorp.com,PROD,2021-07-22 15:06:41 +0000,Dallas Turcotte,14.6,iPhone 8
+5.6,com.incture.iop.prod,CA,joseph_manalo@murphyoilcorp.com,,2022-06-28 14:15:41 +0000,Joseph Manalo,15.5,iPhone 11
+5.2,com.incture.iop.prod,CA,rob_nelson@murphyoilcorp.com,PROD,2021-09-28 13:33:47 +0000,Rob Nelson,14.7,iPhone 6s
+5.8,com.incture.iop.prod,US,dennis_quebodeaux@murphyoilcorp.com,TildenEast,2022-09-23 08:26:12 +0000,Dennis Quebodeaux,15.6,iPhone 11
+5.6,com.incture.iop.prod,US,prakash_kumar@contractor.murphyoilcorp.com,,2022-07-12 08:40:15 +0000,Prakash Kumar,15.2,iPhone X
+5.5,com.incture.iop.prod,US,alex_ostertag@murphyoilcorp.com,,2022-06-21 00:58:38 +0000,Alex Ostertag,14.8,iPhone 11
+5.8,com.incture.iop.prod,US,cody_blackmon@murphyoilcorp.com,TildenEast,2022-09-23 05:09:43 +0000,Cody Blackmon,15.7,iPhone 11
+5.8,com.incture.iop.prod,US,justin_moy@murphyoilcorp.com,KarnesNorth,2022-09-23 11:26:30 +0000,Justin Moy,15.6,iPhone 11
+5.1,com.incture.iop.prod,CA,travis_jessen@contractor.murphyoilcorp.com,PROD,2021-07-12 20:57:11 +0000,Travis Jessen,14.4,iPhone 7
+5.8,com.incture.iop.prod,CA,michael_delesky@murphyoilcorp.com,Montney,2022-09-22 22:47:20 +0000,Michael Delesky,14.2,iPhone 6s
+5.2,com.incture.iop.prod,CA,jay_thebeau@murphyoilcorp.com,PROD,2021-09-29 14:39:19 +0000,Jay Thebeau,14.8,iPhone 8
+5.8,com.incture.iop.prod,CA,jason_hogberg@contractor.murphyoilcorp.com,Montney,2022-09-22 21:57:50 +0000,Jason Hogberg,15.7,iPhone 12 Pro
+5.5,com.incture.iop.prod,CA,evan_boire@murphyoilcorp.com,Montney,2022-06-17 13:19:23 +0000,Evan Boire,14.2,iPhone XR
+5.7,com.incture.iop.prod,CA,david_will@murphyoilcorp.com,Kaybob,2022-09-07 00:07:00 +0000,David Will,15.6,iPhone 8
+5.8,com.incture.iop.prod,CA,bret_mcghie@contractor.murphyoilcorp.com,Kaybob,2022-09-22 22:36:13 +0000,Bret McGhie,15.6,iPhone 11
+5.3,com.incture.iop.prod,CA,trevor_want@contractor.murphyoilcorp.com,Kaybob,2022-02-09 17:08:02 +0000,Trevor Want,15.1,iPhone 12 Pro
+5.7,com.incture.iop.prod,US,john_watson@murphyoilcorp.com,,2022-08-17 19:34:05 +0000,John Watson,15.4,iPhone 11
+5.7,com.incture.iop.prod,US,karey_knackstedt@murphyoilcorp.com,,2022-09-06 14:52:33 +0000,Karey Knackstedt,15.6,iPhone 11
+5.4,com.incture.iop.prod,US,victor_guevara@murphyoilcorp.com,CATARINA,2022-03-02 15:36:44 +0000,Victor Guevara,14.8,iPhone 11
+5.7,com.incture.iop.prod,US,rajeev_amerneni@contractor.murphyoilcorp.com,,2022-09-06 13:43:16 +0000,Rajeev Amerneni,16.0,iPhone14	5
+5.8,com.incture.iop.prod,US,kevin_simoneaux@murphyoilcorp.com,KarnesSouth,2022-09-22 20:18:53 +0000,Kevin Simoneaux,15.6,iPhone 11
+5.6,com.incture.iop.prod,US,luis_martinez@murphyoilcorp.com,TildenEast,2022-09-23 11:00:32 +0000,Luis Martinez,14.5,iPhone 11
+5.4,com.incture.iop.prod,US,aloysius_obodoako@murphyoilcorp.com,READONLY,2022-06-07 19:55:29 +0000,Aloysius Obodoako,15.3,iPhone 11
+5.8,com.incture.iop.prod,US,kunal_agarwal@contractor.murphyoilcorp.com,,2022-09-22 23:47:00 +0000,Kunal Agarwal,16.0,iPhone 12 Pro Max
+5.8,com.incture.iop.prod,US,mario_fernandez@murphyoilcorp.com,Catarina,2022-09-23 06:25:22 +0000,Mario Fernandez,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,david_perez@murphyoilcorp.com,Catarina,2022-09-16 22:31:22 +0000,David Perez,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,frank_valenzuela@murphyoilcorp.com,Catarina,2022-09-22 22:55:46 +0000,Frank Valenzuela,15.6,iPhone 11
+5.6,com.incture.iop.prod,US,christopher_caldwell@murphyoilcorp.com,,2022-08-22 08:01:57 +0000,Christopher Caldwell,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,danny_keen@murphyoilcorp.com,KarnesNorth,2022-09-20 22:52:35 +0000,Danny Keen,15.7,iPhone 11
+5.8,com.incture.iop.prod,US,brian_baker@murphyoilcorp.com,KarnesNorth,2022-09-23 11:32:53 +0000,Brian Baker,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,sonny_aldaco@murphyoilcorp.com,Catarina,2022-09-22 23:58:04 +0000,Sonny Aldaco,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,trey_chapa@murphyoilcorp.com,,2022-09-21 18:14:29 +0000,Trey Chapa III,15.3,iPhone 11
+5.8,com.incture.iop.prod,CA,curtis_szafron@murphyoilcorp.com,Kaybob,2022-09-19 15:55:39 +0000,Curtis Szafron,16.0,iPhone 11
+5.1,com.incture.iop.prod,US,justin_olivares@murphyoilcorp.com,,2021-07-28 14:54:17 +0000,Justin Olivares,14.5,iPhone 11
+5.8,com.incture.iop.prod,US,ray_ceniseros@murphyoilcorp.com,Catarina,2022-09-20 20:08:30 +0000,Ray Ceniseros,15.5,iPhone 11
+4.6,com.incture.iop.prod,cody_lightbody@contractor.murphyoilcorp.com,2021-02-10 15:31:38 +0000,Cody Lightbody,14.4,iPhone X
+5.8,com.incture.iop.prod,CA,kevin_kienzle@contractor.murphyoilcorp.com,Kaybob,2022-09-20 21:49:13 +0000,Kevin Kienzle,15.6,iPhone 11
+5.8,com.incture.iop.prod,CA,dwayne_davie@contractor.murphyoilcorp.com,Kaybob,2022-09-20 20:43:45 +0000,Dwayne Davie,15.6,iPhone 12 Pro
+5.8,com.incture.iop.prod,CA,ryan_gardner@contractor.murphyoilcorp.com,Kaybob,2022-09-22 21:02:58 +0000,Ryan Gardner,15.6,iPhone XS Max
+5.8,com.incture.iop.prod,CA,mark_leger@contractor.murphyoilcorp.com,Kaybob,2022-09-15 16:40:02 +0000,Mark Leger,15.5,iPhone 6s
+5.8,com.incture.iop.prod,CA,travis_tiffin@murphyoilcorp.com,Kaybob,2022-09-15 00:20:09 +0000,Travis Tiffin,15.6,iPhone XR
+5.8,com.incture.iop.prod,CA,joel_oglow@contractor.murphyoilcorp.com,Kaybob,2022-09-22 15:33:07 +0000,Joel Oglow,15.6,iPhone 11
+4.6,com.incture.iop.prod,lorne_ewert@murphyoilcorp.com,2021-03-08 15:48:08 +0000,Lorne Ewert,14.4,iPhone 8
+5.6,com.incture.iop.prod,CA,tim_braun@murphyoilcorp.com,,2022-07-27 19:39:48 +0000,Tim Braun,15.5,iPhone 8
+5.8,com.incture.iop.prod,CA,adam_schultz@contractor.murphyoilcorp.com,,2022-09-22 16:50:53 +0000,Adam Schultz,15.6,iPhone14	3
+4.6,com.incture.iop.prod,chance_rich@murphyoilcorp.com,2021-02-08 20:11:02 +0000,Chance Rich,13.6,iPhone 8
+5.3,com.incture.iop.prod,US,anwesh_mishra@contractor.murphyoilcorp.com,,2022-02-07 16:31:44 +0000,Anwesh Mishra,15.2,iPhone X
+5.8,com.incture.iop.prod,US,jones_lansford@murphyoilcorp.com,TildenEast,2022-09-23 05:44:45 +0000,Jones Lansford,14.5,iPhone 11
+5.8,com.incture.iop.prod,US,randy_vidal@murphyoilcorp.com,KarnesNorth,2022-09-20 18:48:11 +0000,Randy Vidal,15.6,iPhone 11
+5.4,com.incture.iop.prod,CA,aaron_woods@murphyoilcorp.com,,2022-06-01 11:07:27 +0000,Aaron Woods,15.2,iPhone 11
+5.8,com.incture.iop.prod,US,kevin_crowsey@murphyoilcorp.com,KarnesNorth,2022-09-23 09:17:41 +0000,William Crowsey,15.3,iPhone 11
+5.8,com.incture.iop.prod,US,gabriel_longoria@murphyoilcorp.com,TildenEast,2022-09-20 20:15:43 +0000,Gabriel Longoria III,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,stephen_sivcoski@murphyoilcorp.com,TildenEast,2022-09-21 17:27:22 +0000,Stephen Sivcoski,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,nate_monk@murphyoilcorp.com,KarnesNorth,2022-09-21 08:17:21 +0000,Nate Monk,14.5,iPhone 11
+5.8,com.incture.iop.prod,US,jacob_rihn@murphyoilcorp.com,TildenEast,2022-09-23 10:38:41 +0000,Jacob Rihn,14.5,iPhone 11
+5.3,com.incture.iop.prod,CA,michael_kimble@contractor.murphyoilcorp.com,Montney,2022-02-13 17:58:50 +0000,Michael Kimble,15.2,iPhone 12 Pro Max
+5.1,com.incture.iop.prod,US,sankalp_saurabh@contractor.murphyoilcorp.com,PROD,2021-07-02 09:27:53 +0000,Sankalp Saurabh,13.7,iPhone X
+5.8,com.incture.iop.prod,US,bobby_nolan@murphyoilcorp.com,TildenEast,2022-09-21 09:55:01 +0000,Bobby Nolan,14.5,iPhone 11
+5.8,com.incture.iop.prod,US,blake_weise@murphyoilcorp.com,KarnesNorth,2022-09-19 21:22:29 +0000,Blake Weise,14.8,iPhone 11
+5.7,com.incture.iop.prod,CA,dean_arsenault@contractor.murphyoilcorp.com,Montney,2022-09-21 22:12:07 +0000,Dean Arsenault,15.1,iPhone 11
+5.8,com.incture.iop.prod,CA,daryl_reay@contractor.murphyoilcorp.com,Montney,2022-09-22 16:24:01 +0000,Daryl Reay,15.5,iPhone 11 Pro
+5.8,com.incture.iop.prod,US,joey_garza@murphyoilcorp.com,KarnesNorth,2022-09-20 21:21:05 +0000,Joey Garza,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,marcus_schuessler@murphyoilcorp.com,TildenEast,2022-09-20 19:58:08 +0000,Marcus Schuessler,16.0,iPhone 11
+5.8,com.incture.iop.prod,US,oscar_gonzalez@murphyoilcorp.com,KarnesNorth,2022-09-22 21:26:52 +0000,Oscar Gonzalez,14.8,iPhone 11
+5.8,com.incture.iop.prod,US,erica_littlefield@murphyoilcorp.com,TildenEast,2022-09-23 10:39:03 +0000,Erica Littlefield,16.0,iPhone 11
+5.8,com.incture.iop.prod,US,jonathan_petrash@murphyoilcorp.com,KarnesNorth,2022-09-21 07:46:35 +0000,Jonathan Petrash,15.6,iPhone 11
+4.8,com.incture.iop.prod,US,mocktestuser@mail.com,CATARINA,2021-05-31 10:51:48 +0000,Mock Testuser,14.0,iPhone 6s
+5.8,com.incture.iop.prod,US,nathan_leach@murphyoilcorp.com,TildenEast,2022-09-23 11:27:52 +0000,Nathan Leach,15.6,iPhone 11
+5.2,com.incture.iop.prod,US,daniel_aragon@murphyoilcorp.com,,2021-10-19 13:24:45 +0000,Daniel Aragon,14.8,iPhone 11
+5.8,com.incture.iop.prod,US,juan_navarro@murphyoilcorp.com,Catarina,2022-09-23 00:16:51 +0000,Juan Navarro,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,anthony_mendoza@murphyoilcorp.com,,2022-09-22 18:30:15 +0000,Anthony Mendoza,14.8,iPhone 11
+5.7,com.incture.iop.prod,US,kenneth_klanika@murphyoilcorp.com,,2022-09-12 19:56:44 +0000,Kenneth Klanika,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,tyler_edlin@murphyoilcorp.com,,2022-09-13 11:42:03 +0000,Tyler Edlin,15.6,iPhone 11
+5.2,com.incture.iop.prod,US,david_woolery@murphyoilcorp.com,,2021-09-01 16:36:18 +0000,David Woolery,14.5,iPhone 11
+5.8,com.incture.iop.prod,CA,arundeep_mann@contractor.murphyoilcorp.com,Montney,2022-09-21 16:33:09 +0000,Arundeep Mann,15.6,iPad14	1
+5.8,com.incture.iop.prod,US,ffid_mcp@murphyoilcorp.com,,2022-09-08 11:09:12 +0000,FFID MCP,15.6,iPhone X
+5.8,com.incture.iop.prod,CA,ian_cosens@contractor.murphyoilcorp.com,Montney,2022-09-22 21:38:13 +0000,Ian Cosens,15.5,iPhone SE (2nd generation)
+5.8,com.incture.iop.prod,US,jeff_pilcher@murphyoilcorp.com,,2022-09-19 14:17:52 +0000,Jeff Pilcher,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,cort_davis@murphyoilcorp.com,,2022-09-21 13:49:02 +0000,Cort Davis,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,shrist_das@contractor.murphyoilcorp.com,,2022-09-23 08:22:27 +0000,Shrist Das,16.0,iPhone 8 Plus
+5.7,com.incture.iop.prod,US,eli_vela@murphyoilcorp.com,KARNES,2022-09-06 23:03:29 +0000,Eli Vela,15.2,iPhone 11
+5.8,com.incture.iop.prod,CA,kevin_backs@contractor.murphyoilcorp.com,Kaybob,2022-09-23 04:05:03 +0000,Kevin Backs,15.6,iPhone 8
+5.8,com.incture.iop.prod,US,joshua_robles@murphyoilcorp.com,KarnesNorth,2022-09-20 22:31:32 +0000,Joshua Robles,15.6,iPhone 11
+5.8,com.incture.iop.prod,CA,brett_ilg@contractor.murphyoilcorp.com,,2022-09-12 17:41:11 +0000,Brett Ilg,15.6,iPhone 12 Pro Max
+5.8,com.incture.iop.prod,CA,neil_stefanyk@contractor.murphyoilcorp.com,Montney,2022-09-21 21:52:04 +0000,Neil Stefanyk,15.6,iPhone14	5
+5.8,com.incture.iop.prod,US,dillon_moczygemba@murphyoilcorp.com,KarnesNorth,2022-09-21 21:04:32 +0000,Dillon Moczygemba,15.6,iPhone 12
+5.8,com.incture.iop.prod,US,josue_estebane@murphyoilcorp.com,KarnesNorth,2022-09-22 15:29:57 +0000,Josue Estebane,15.6,iPhone 12
+5.8,com.incture.iop.prod,US,joe_anthony@murphyoilcorp.com,TildenEast,2022-09-21 14:24:06 +0000,Joe Anthony,15.6,iPhone 12
+5.8,com.incture.iop.prod,US,henry_meade@murphyoilcorp.com,KarnesNorth,2022-09-21 16:59:37 +0000,Henry Meade,15.6,iPhone 12
+5.6,com.incture.iop.prod,US,knack63@gmail.com,,2022-06-27 18:29:08 +0000,Karey Kanck,15.5,iPhone 11
+5.8,com.incture.iop.prod,US,anuradha_vidyarthi@contractor.murphyoilcorp.com,,2022-09-22 12:28:44 +0000,Anuradha Vidyarthi,15.5,iPhone 6s
+5.8,com.incture.iop.prod,US,rick_barrios@murphyoilcorp.com,TildenEast,2022-09-23 10:50:07 +0000,Rick Barrios,15.7,iPhone 11
+5.8,com.incture.iop.prod,US,nehemiah_monk@murphyoilcorp.com,KarnesNorth,2022-09-23 11:26:46 +0000,Nehemiah Monk,15.5,iPhone 11
+5.8,com.incture.iop.prod,CA,ryan_linsley@contractor.murphyoilcorp.com,Montney,2022-09-22 20:59:49 +0000,Ryan Linsley,15.7,iPad14	1
+5.8,com.incture.iop.prod,US,beau_olle@murphyoilcorp.com,TildenEast,2022-09-20 20:13:18 +0000,Beau Olle,15.6,iPhone 11
+5.8,com.incture.iop.prod,US,patrick_alvarez@murphyoilcorp.com,TildenEast,2022-09-20 18:53:01 +0000,Patrick Alvarez,15.7,iPhone 11
+5.6,com.incture.iop.prod,CA,pro_kaybob1@test.com,Kaybob,2022-06-23 16:20:18 +0000,Dwayne Davie,15.4,Simulator iPhone 12
